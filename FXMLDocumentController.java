@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXML2.java to edit this template
- */
-package activitat.ae01_t1_1_ficheros;
+
 
 import java.io.File;
 import java.io.IOException;
@@ -20,10 +16,6 @@ import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.control.TextInputDialog;
 
-/**
- *
- * @author Joan_2k2
- */
 public class FXMLDocumentController implements Initializable {
 
     @FXML
